@@ -5,9 +5,13 @@ Make sure you follow [this guide]([https://pages.github.com/](https://beebom.com
 
 ## Pick your script
 zinstall.sh is for zork/gumboz recoveries
+
 rinstall.sh is for rammus/shyvana recoveries
+
 hinstall.sh is for hatch/jinlon recoveries
+
 vinstall.sh is for volteer/voxel recoveries
+
 sinstall.sh is for samus recoveries
 
 Thanks and enjoy!
