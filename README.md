@@ -5,6 +5,8 @@ Make sure you follow [this guide]([https://pages.github.com/](https://beebom.com
 
 ### Important! Make just that you double-check that you have the right disk. If your Linux disk does not show up as /dev/sda, edit the .sh file!
 
+-Make sure your recovery.bin file is named appropiately, e.g. zork_recovery.bin
+
 ## Pick your script
 zinstall.sh is for zork/gumboz recoveries
 
